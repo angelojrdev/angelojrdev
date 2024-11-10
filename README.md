@@ -2,7 +2,7 @@
 
 ## Bem-vindo ao meu perfil GitHub 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojrdev&hide=prs,issues,contribs&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojrdev&hide=prs,issues,contribs&show_icons=true&theme=blue_navy)
 
 ### Sobre mim 😄
 
